@@ -1,19 +1,3 @@
-# Cryptocurrency Liquidity Prediction
-
-A Machine Learning project to predict liquidity using market features like price, volume, etc.
-
-## Features
-- EDA
-- Feature Engineering
-- Random Forest Model
-- Streamlit Web App
-
-## Run App
-
-```bash
-streamlit run app/app.py
-# Cryptocurrency Liquidity Prediction
-
 ## Overview
 
 This project is a machine learning pipeline designed to predict the liquidity of cryptocurrencies using historical market data. The primary goal is to identify early signs of liquidity crises, which can lead to market instability. By forecasting a custom liquidity ratio based on features like price, volume, and market cap, the model provides insights that can help traders and financial institutions manage risk more effectively.
